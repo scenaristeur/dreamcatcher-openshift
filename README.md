@@ -1,5 +1,7 @@
 dreamcatcher openshift rhc app create dreamcatcher
-```https://raw.githubusercontent.com/scenaristeur/dreamcatcher-openshift/master/metadata/manifest.yml```
+``` 
+https://raw.githubusercontent.com/scenaristeur/dreamcatcher-openshift/master/metadata/manifest.yml
+```
 
 # Custom Node.js cartridge for OpenShift
 
